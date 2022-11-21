@@ -1,0 +1,7 @@
+## Interface: 100002
+## Version: 0.1.0
+## Title: Diiing!
+## Notes: Successor to Hey, Grats Mon.
+## Author: Hiromi
+
+Diiing.lua
