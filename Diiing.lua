@@ -15,6 +15,7 @@ function f:ACHIEVEMENT_EARNED(event)
     PlaySoundFile(543326)
 end
 
+
 f:RegisterEvent("PLAYER_LEVEL_UP")
 f:RegisterEvent("ACHIEVEMENT_EARNED")
 f:SetScript("OnEvent", f.OnEvent)
