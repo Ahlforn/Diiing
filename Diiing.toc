@@ -1,6 +1,7 @@
-## Interface: 100002
-## Version: 0.1.0
+## Interface: 100207
+## Version: 0.1.1
 ## Title: Diiing!
+## SavedVariables: Diiing
 ## Notes: Successor to Hey, Grats Mon.
 ## Author: Hiromi
 
